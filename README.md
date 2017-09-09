@@ -1,7 +1,7 @@
 # Emoji Calculator
 
-Open index.phtml file in browser.
-The index.phtml is located in the /public directory.
+Open index.php file in browser.
+The index.php is located in the /public directory.
 
 PHP 7.1 supported.
 
